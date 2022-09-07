@@ -5,7 +5,7 @@
 </div>  
     
 <div align="center">
-   Automatically updated quote images to use in your GitHub README / GitHub Profile README or your website etc!
+   Auto updating quote images for your README or website.
    
   <small> <b><i>Show your support!</i> </b></small>
   <br>
@@ -20,7 +20,7 @@
 
 
 
-Not ONLY do these quotes automatically update each day! There are over 30 types of quotes to choose from :fire:
+Not ONLY do these quotes automatically update each day (roughly every 24 hours)! There are over 30 types of quotes to choose from :fire:
 
 An instead of dynamically generating them via an API that returns an image - it's requires less computing power making it a much more greener / eco-friendly alternative 🌎 ♻️ 
 
