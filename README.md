@@ -1,4 +1,4 @@
-# README-Quotes
+# Quote Placeholders
 
 <div align="center">
 <a href="https://github.com/MarketingPipeline/README-Quotes"> <img height="400px" src="https://imageplaceholder.github.io/quotes/famous-quotes.png"/> </a> 
