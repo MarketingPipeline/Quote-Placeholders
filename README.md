@@ -22,7 +22,7 @@
 
 Not ONLY do these quotes automatically update each day (roughly every 24 hours)! There are over 30 types of quotes to choose from :fire:
 
-An instead of dynamically generating them via an API that returns an image - it's requires less computing power making it a much more greener / eco-friendly alternative 🌎 ♻️ 
+These are ONLY generated once & not dynamically from input - meaning it's requires less computing power making it a much more greener / eco-friendly alternative 🌎 ♻️ 
 
 
 
