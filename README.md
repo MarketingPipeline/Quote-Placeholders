@@ -897,6 +897,20 @@ https://imageplaceholder.github.io/quotes/wisdom.png
 </details>
 
 
+### JSON Data
+
+<details>
+
+<summary>Image URLs as JSON data</summary>
+
+<br>
+
+You can find all the image sources in this JSON data file, which you could use to fetch the results in a web application etc. 
+
+       https://imageplaceholder.github.io/quotes/data.json
+
+</details>
+
 ## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/README-Quotes)
 
 Want to improve this project? Create a pull request with detailed changes / improvements! If approved you will be added to the list of contributors of this awesome project!
